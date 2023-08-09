@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "lE1JtPWWThhBr5vhjGWMel+eRnBUe+y0uVdhx5uhOZU=",
+  "Source": "Homework1",
+  "BasePath": "_content/Homework1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Homework1\\wwwroot",
+      "Source": "Homework1",
+      "ContentRoot": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework1\\Homework1\\Homework1\\wwwroot\\",
+      "BasePath": "_content/Homework1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework1\\Homework1\\Homework1\\wwwroot\\index.html",
+      "SourceId": "Homework1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework1\\Homework1\\Homework1\\wwwroot\\",
+      "BasePath": "_content/Homework1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework1\\Homework1\\Homework1\\wwwroot\\script.js",
+      "SourceId": "Homework1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework1\\Homework1\\Homework1\\wwwroot\\",
+      "BasePath": "_content/Homework1",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}
