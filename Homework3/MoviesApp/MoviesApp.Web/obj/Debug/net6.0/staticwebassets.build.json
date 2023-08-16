@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TZxdvaRmM1fJc9483xRKOPyyvxAoWx3lEKtk1M9QMxo=",
+  "Source": "MoviesApp.Web",
+  "BasePath": "_content/MoviesApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

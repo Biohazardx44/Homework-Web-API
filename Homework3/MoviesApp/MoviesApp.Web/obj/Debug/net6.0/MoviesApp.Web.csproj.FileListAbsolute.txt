@@ -1,0 +1,64 @@
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.exe
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.deps.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.runtimeconfig.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets\msbuild.MoviesApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.MoviesApp.Web.props
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.Web.props
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MoviesApp.Web.props
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\scopedcss\bundle\MoviesApp.Web.styles.css
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\refint\MoviesApp.Web.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.genruntimeconfig.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\ref\MoviesApp.Web.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.exe
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.runtimeconfig.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\MoviesApp.Web.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets\msbuild.MoviesApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.MoviesApp.Web.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.Web.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MoviesApp.Web.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\scopedcss\bundle\MoviesApp.Web.styles.css
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\refint\MoviesApp.Web.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\MoviesApp.Web.genruntimeconfig.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework3\MoviesApp\MoviesApp.Web\obj\Debug\net6.0\ref\MoviesApp.Web.dll
