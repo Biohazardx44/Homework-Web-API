@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MoviesApp.Mappers/1.0.0": {
+        "dependencies": {
+          "MoviesApp.DTOs": "1.0.0",
+          "MoviesApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MoviesApp.Mappers.dll": {}
+        }
+      },
+      "MoviesApp.Domain/1.0.0": {
+        "runtime": {
+          "MoviesApp.Domain.dll": {}
+        }
+      },
+      "MoviesApp.DTOs/1.0.0": {
+        "dependencies": {
+          "MoviesApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MoviesApp.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoviesApp.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoviesApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoviesApp.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

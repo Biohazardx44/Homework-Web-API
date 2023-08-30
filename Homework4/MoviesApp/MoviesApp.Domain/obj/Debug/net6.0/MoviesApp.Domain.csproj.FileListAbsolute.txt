@@ -1,0 +1,22 @@
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.deps.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\refint\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\ref\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\refint\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\ref\MoviesApp.Domain.dll

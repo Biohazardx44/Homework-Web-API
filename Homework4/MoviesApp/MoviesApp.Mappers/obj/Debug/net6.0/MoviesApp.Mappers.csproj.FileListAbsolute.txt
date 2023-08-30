@@ -1,0 +1,34 @@
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Mappers.deps.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\refint\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\ref\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Mappers.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\refint\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\ref\MoviesApp.Mappers.dll

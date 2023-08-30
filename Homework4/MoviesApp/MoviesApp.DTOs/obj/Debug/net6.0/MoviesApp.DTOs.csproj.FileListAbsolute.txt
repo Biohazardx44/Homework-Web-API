@@ -1,0 +1,30 @@
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.DTOs.deps.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\refint\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\ref\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.DTOs.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\refint\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DTOs\obj\Debug\net6.0\ref\MoviesApp.DTOs.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JcWxTM8phL/QduoHLDPv/AI5aD5lwAhcWHp0eJGq+Qw=",
+  "Source": "MoviesApp.Api",
+  "BasePath": "_content/MoviesApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

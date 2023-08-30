@@ -1,0 +1,573 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Api\\MoviesApp.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Api\\MoviesApp.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Api\\MoviesApp.Api.csproj",
+        "projectName": "MoviesApp.Api",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Api\\MoviesApp.Api.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.CustomExceptions\\MoviesApp.CustomExceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.CustomExceptions\\MoviesApp.CustomExceptions.csproj",
+        "projectName": "MoviesApp.CustomExceptions",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.CustomExceptions\\MoviesApp.CustomExceptions.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.CustomExceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj",
+        "projectName": "MoviesApp.DataAccess",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj",
+        "projectName": "MoviesApp.Domain",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DTOs\\MoviesApp.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DTOs\\MoviesApp.DTOs.csproj",
+        "projectName": "MoviesApp.DTOs",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DTOs\\MoviesApp.DTOs.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj",
+        "projectName": "MoviesApp.Helpers",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj"
+              },
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Services\\MoviesApp.Services.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Services\\MoviesApp.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Mappers\\MoviesApp.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Mappers\\MoviesApp.Mappers.csproj",
+        "projectName": "MoviesApp.Mappers",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Mappers\\MoviesApp.Mappers.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj"
+              },
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DTOs\\MoviesApp.DTOs.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DTOs\\MoviesApp.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Services\\MoviesApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Services\\MoviesApp.Services.csproj",
+        "projectName": "MoviesApp.Services",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Services\\MoviesApp.Services.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.CustomExceptions\\MoviesApp.CustomExceptions.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.CustomExceptions\\MoviesApp.CustomExceptions.csproj"
+              },
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj"
+              },
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj"
+              },
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DTOs\\MoviesApp.DTOs.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.DTOs\\MoviesApp.DTOs.csproj"
+              },
+              "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Mappers\\MoviesApp.Mappers.csproj": {
+                "projectPath": "C:\\Users\\nikol\\Desktop\\Code\\Homework-Web-API\\Homework4\\MoviesApp\\MoviesApp.Mappers\\MoviesApp.Mappers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

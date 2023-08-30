@@ -1,0 +1,34 @@
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.deps.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.runtimeconfig.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\refint\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.genruntimeconfig.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\ref\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.runtimeconfig.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\refint\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.genruntimeconfig.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\ref\MoviesApp.DataAccess.dll
