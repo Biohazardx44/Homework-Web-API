@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SEDC.NoteApp.Api.props" />
+</Project>

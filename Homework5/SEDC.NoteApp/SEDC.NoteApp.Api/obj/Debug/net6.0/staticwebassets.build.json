@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "we54NEPJJu/xZzSHrkEeBCcr+w2vRP0R5gmauvQTTyo=",
+  "Source": "SEDC.NoteApp.Api",
+  "BasePath": "_content/SEDC.NoteApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

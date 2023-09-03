@@ -1,0 +1,11 @@
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\bin\Debug\net6.0\SEDC.NoteApp.Domain.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\bin\Debug\net6.0\SEDC.NoteApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\bin\Debug\net6.0\SEDC.NoteApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\obj\Debug\net6.0\SEDC.NoteApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\obj\Debug\net6.0\SEDC.NoteApp.Domain.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\obj\Debug\net6.0\SEDC.NoteApp.Domain.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\obj\Debug\net6.0\SEDC.NoteApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\obj\Debug\net6.0\SEDC.NoteApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\obj\Debug\net6.0\refint\SEDC.NoteApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\obj\Debug\net6.0\SEDC.NoteApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.Domain\obj\Debug\net6.0\ref\SEDC.NoteApp.Domain.dll

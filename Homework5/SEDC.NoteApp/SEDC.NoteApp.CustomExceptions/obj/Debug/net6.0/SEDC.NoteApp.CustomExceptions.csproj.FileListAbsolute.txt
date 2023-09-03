@@ -1,0 +1,11 @@
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\bin\Debug\net6.0\SEDC.NoteApp.CustomExceptions.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\bin\Debug\net6.0\SEDC.NoteApp.CustomExceptions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\bin\Debug\net6.0\SEDC.NoteApp.CustomExceptions.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\refint\SEDC.NoteApp.CustomExceptions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\ref\SEDC.NoteApp.CustomExceptions.dll

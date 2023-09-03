@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEDC.NoteApp.Mappers/1.0.0": {
+        "dependencies": {
+          "SEDC.NoteApp.DTOs": "1.0.0",
+          "SEDC.NoteApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.NoteApp.Mappers.dll": {}
+        }
+      },
+      "SEDC.NoteApp.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.NoteApp.Domain.dll": {}
+        }
+      },
+      "SEDC.NoteApp.DTOs/1.0.0": {
+        "dependencies": {
+          "SEDC.NoteApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.NoteApp.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.NoteApp.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.NoteApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.NoteApp.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

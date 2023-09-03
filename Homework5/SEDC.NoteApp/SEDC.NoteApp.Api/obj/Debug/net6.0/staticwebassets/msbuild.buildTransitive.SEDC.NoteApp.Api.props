@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SEDC.NoteApp.Api.props" />
+</Project>

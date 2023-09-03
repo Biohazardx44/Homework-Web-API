@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\bin\Debug\net6.0\SEDC.NoteApp.DTOs.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\bin\Debug\net6.0\SEDC.NoteApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\bin\Debug\net6.0\SEDC.NoteApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\bin\Debug\net6.0\SEDC.NoteApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\bin\Debug\net6.0\SEDC.NoteApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\SEDC.NoteApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\SEDC.NoteApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\SEDC.NoteApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\SEDC.NoteApp.DTOs.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\SEDC.NoteApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\SEDC.NoteApp.DTOs.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\SEDC.NoteApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\refint\SEDC.NoteApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\SEDC.NoteApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.DTOs\obj\Debug\net6.0\ref\SEDC.NoteApp.DTOs.dll

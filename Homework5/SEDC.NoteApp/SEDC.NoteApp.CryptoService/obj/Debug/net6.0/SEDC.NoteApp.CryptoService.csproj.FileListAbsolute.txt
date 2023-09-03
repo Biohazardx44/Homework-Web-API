@@ -1,0 +1,12 @@
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\bin\Debug\net6.0\SEDC.NoteApp.CryptoService.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\bin\Debug\net6.0\SEDC.NoteApp.CryptoService.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\bin\Debug\net6.0\SEDC.NoteApp.CryptoService.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\refint\SEDC.NoteApp.CryptoService.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework5\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\ref\SEDC.NoteApp.CryptoService.dll

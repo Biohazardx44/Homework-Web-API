@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEDC.NoteApp.DTOs/1.0.0": {
+        "dependencies": {
+          "SEDC.NoteApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.NoteApp.DTOs.dll": {}
+        }
+      },
+      "SEDC.NoteApp.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.NoteApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.NoteApp.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.NoteApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
