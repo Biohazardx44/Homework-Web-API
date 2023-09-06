@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MoviesApp.DTOs/1.0.0": {
+        "dependencies": {
+          "MoviesApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MoviesApp.DTOs.dll": {}
+        }
+      },
+      "MoviesApp.Domain/1.0.0": {
+        "runtime": {
+          "MoviesApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoviesApp.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoviesApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

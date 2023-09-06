@@ -1,0 +1,75 @@
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Helpers.deps.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Services.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Services.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\refint\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\ref\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Helpers.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Services.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Services.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\refint\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\ref\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.CustomExceptions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.CustomExceptions.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Helpers.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.CryptoService.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.CustomExceptions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Services.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Services.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.CryptoService.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.CustomExceptions.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\refint\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Helpers\obj\Debug\net6.0\ref\MoviesApp.Helpers.dll

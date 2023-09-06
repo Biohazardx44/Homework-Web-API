@@ -1,0 +1,12 @@
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\bin\Debug\net6.0\MoviesApp.CryptoService.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\bin\Debug\net6.0\MoviesApp.CryptoService.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\bin\Debug\net6.0\MoviesApp.CryptoService.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\obj\Debug\net6.0\MoviesApp.CryptoService.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\obj\Debug\net6.0\MoviesApp.CryptoService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\obj\Debug\net6.0\MoviesApp.CryptoService.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\obj\Debug\net6.0\MoviesApp.CryptoService.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\obj\Debug\net6.0\MoviesApp.CryptoService.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\obj\Debug\net6.0\MoviesApp.CryptoService.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\obj\Debug\net6.0\refint\MoviesApp.CryptoService.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\obj\Debug\net6.0\MoviesApp.CryptoService.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.CryptoService\obj\Debug\net6.0\ref\MoviesApp.CryptoService.dll

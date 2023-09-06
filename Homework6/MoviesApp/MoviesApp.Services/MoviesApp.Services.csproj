@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MoviesApp.CryptoService\MoviesApp.CryptoService.csproj" />
+    <ProjectReference Include="..\MoviesApp.CustomExceptions\MoviesApp.CustomExceptions.csproj" />
+    <ProjectReference Include="..\MoviesApp.DataAccess\MoviesApp.DataAccess.csproj" />
+    <ProjectReference Include="..\MoviesApp.Domain\MoviesApp.Domain.csproj" />
+    <ProjectReference Include="..\MoviesApp.DTOs\MoviesApp.DTOs.csproj" />
+    <ProjectReference Include="..\MoviesApp.Mappers\MoviesApp.Mappers.csproj" />
+  </ItemGroup>
+
+</Project>

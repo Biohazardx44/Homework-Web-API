@@ -1,0 +1,249 @@
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.exe
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.deps.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.runtimeconfig.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Services.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Services.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.MoviesApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.MoviesApp.Api.props
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.Api.props
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MoviesApp.Api.props
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\scopedcss\bundle\MoviesApp.Api.styles.css
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\refint\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.pdb
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.genruntimeconfig.cache
+C:\Users\nikol\Desktop\Code\Class-Web-API\Class 3\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\ref\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.exe
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.runtimeconfig.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Services.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Services.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.MoviesApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.MoviesApp.Api.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.Api.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MoviesApp.Api.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\scopedcss\bundle\MoviesApp.Api.styles.css
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\refint\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.genruntimeconfig.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\ref\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.CustomExceptions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework4\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.CustomExceptions.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.exe
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.deps.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.runtimeconfig.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Api.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\XAct.Core.PCL.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.CryptoService.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.CustomExceptions.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Services.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.CryptoService.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.CustomExceptions.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\bin\Debug\net6.0\MoviesApp.Services.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.MoviesApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.MoviesApp.Api.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.Api.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MoviesApp.Api.props
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\scopedcss\bundle\MoviesApp.Api.styles.css
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.csproj.CopyComplete
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\refint\MoviesApp.Api.dll
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.pdb
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\MoviesApp.Api.genruntimeconfig.cache
+C:\Users\nikol\Desktop\Code\Homework-Web-API\Homework6\MoviesApp\MoviesApp.Api\obj\Debug\net6.0\ref\MoviesApp.Api.dll
