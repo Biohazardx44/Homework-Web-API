@@ -13,7 +13,6 @@ namespace MoviesApp.Helpers
     {
         public static void InjectServices(this IServiceCollection services)
         {
-            // Entity Framework
             services.AddTransient<IMovieService, MovieService>();
             services.AddTransient<IUserService, UserService>();
         }
